@@ -1,0 +1,14 @@
+fid = fopen('histogram_comparisson_original_equalised.m', 'w');
+fprintf(fid, '% Your code or content here\n');
+fclose(fid);
+
+img = imread("D:\MatLab\Image_Processing\original_Images\veil_nebula.jpg");
+
+Topic: Image Rotation
+As a Matlab Lecturer, your task is to create 6 examples showcasing different ways of using [topic] in Matlab. Begin with a beginner-level example that introduces the basic concepts and functionalities related to [topic]. Progressively increase the complexity and sophistication of each example, moving towards more advanced and intricate applications of [topic] in Matlab.
+
+Each example should be well-documented and explained in detail, providing step-by-step instructions for the audience to follow along easily. Emphasize the key learning points and highlight the reasons behind each step or decision made in the code.
+
+For the final example, create a function that incorporates the essence of [topic] and apply it to a folder of images. Demonstrate how to use this function effectively, showcasing its practicality and usefulness in image processing tasks. Additionally, provide an example illustrating how to implement the function on a specific folder of images ( batch processing of images in a folder), highlighting the impact and benefits it brings.
+
+Overall, your goal is to impart a comprehensive understanding of [topic] in Matlab to your students, guiding them from basic concepts to more advanced and practical applications through these 6 detailed examples.
